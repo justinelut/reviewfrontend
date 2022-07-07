@@ -1,3 +1,4 @@
+import React from 'react'
 import { useRouter } from "next/router";
 import NextArrow from "../../public/icons/NextArrow";
 import PrevArrow from "../../public/icons/PrevArrow";
